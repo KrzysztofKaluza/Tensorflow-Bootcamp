@@ -172,3 +172,7 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+*.h5
+*.png
+09_07_regression_model_SavedModel_format/
