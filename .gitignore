@@ -176,3 +176,5 @@ cython_debug/
 *.h5
 *.png
 09_07_regression_model_SavedModel_format/
+pizza_steak/
+*.zip
